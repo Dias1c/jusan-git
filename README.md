@@ -8,8 +8,16 @@
 - Простой.
 
 ## Запуск (h2)
+### `script.sh` 
 ```bash
 bash ./script.sh
+```
+
+### `username.sh`
+При запуске `username.sh` выводится мое имя😁. 
+```bash
+$ bash ./username.sh
+Dias Kappassov
 ```
 
 ## Портирование (h2)
